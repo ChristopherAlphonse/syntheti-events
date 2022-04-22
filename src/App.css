@@ -1,3 +1,16 @@
-.App {
-  text-align: center;
+button {
+  font-size: 2rem;
+  padding: 0.5rem 5rem;
+  background-color: #7693ca;
+  border-radius: 2rem;
+  border: none;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #6d80a5;
 }
